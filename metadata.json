@@ -1,7 +1,7 @@
 {
   "name": "StakeCat",
   "website": "https://stakecat.space",
-  "description": "We're a Solo Staker collective dedicated to decentralizing EigenLayer's operator set, using our own HW in a privately owned datacenter.",
-  "logo": "https://raw.githubusercontent.com/Stake-Cat/StakeCat-NO/172c248d851c3a8d0821dac820599618ff8a8602/stakecat_logo.png",
+  "description": "We're a Solo Staker collective securing and decentralizing Ethereum and AVS on EigenLayer. Learn more at https://stakecat.space",
+  "logo": "https://raw.githubusercontent.com/Stake-Cat/StakeCat-NO/e13d5edf7804d20b50954342e5438e94ff3fa205/logo.png",
   "twitter": "https://x.com/Stake_Cat"
 }
