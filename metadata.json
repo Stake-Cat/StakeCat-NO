@@ -1,7 +1,7 @@
 {
   "name": "StakeCat",
   "website": "https://stakecat.space",
-  "description": "We are a Solo Staker collective dedicated to decentralizing EigenLayer's operator set. We maintain our own hardware in a privately owned data center, putting decentralization at the core of our operation. Each of our members is a Solo Staker, a DVT runner, a native re-staker, and a cat enthusiast.",
+  "description": "A Solo Staker collective dedicated to decentralizing EigenLayer's operator set.\nWe maintain our own hardware in a privately owned data center, putting decentralization at the core of our operation. Each of our members is a Solo Staker, a DVT runner, a native re-staker, and a cat enthusiast.",
   "logo": "https://raw.githubusercontent.com/Stake-Cat/StakeCat-NO/172c248d851c3a8d0821dac820599618ff8a8602/stakecat_logo.png",
   "twitter": "https://x.com/Stake_Cat"
 }
